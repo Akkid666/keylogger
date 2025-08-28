@@ -22,7 +22,7 @@ print(f"""{Fore.BLUE}
 
 # ---------- Input command so that you can enter the webhook URL // coloured ----------
 
-hook = print(Fore.GREEN + "https://discord.com/api/webhooks/1406631924981563421/srBE-7HercrIYQrjYw2v-3-LqeJtFGjxZ9ZCWXVWDYqgwBvCI1mv4E7wkyN5K9E1eS_R: ", end='')
+hook = print(Fore.GREEN + "https://discord.com/api/webhooks/1406631924981563421/srBE-7HercrIYQrjYw2v-3-LqeJtFGjxZ9ZCWXVWDYqgwBvCI1mv4E7wkyN5K9E1eS_R", end='')
 Webhook1 = input()
 
 # ---------- Spacers for a better overview ----------
